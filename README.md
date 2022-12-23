@@ -4,4 +4,6 @@ If you want to run it by yourself just copy repo and run `npx http-server` comma
 
 I used here A* path finding algorithm to calculate which dot is the best but sometimes it can show a very weird path :p\
 \
-Anyway I'm happy with the result because at least it works. 
+Anyway I'm happy with the result because at least it works.\
+\
+Demo here -> [\*Click*](https://milkeeycat.github.io/Dots-Genetic-Algorithm/index.html)
