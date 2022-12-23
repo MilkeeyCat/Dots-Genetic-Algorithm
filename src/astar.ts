@@ -3,7 +3,6 @@ import {Spot} from "./spot.js"
 
 const heuricstic = (a: Vector, b: Vector) => {
     return Vector.dist(a, b)
-    // return Math.abs(a.x - b.x) + Math.abs(a.y - b.y)
 }
 
 export const aStar = (start: Spot, end: Spot) => {
